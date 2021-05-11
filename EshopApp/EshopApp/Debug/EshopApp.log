@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\EshopApp\EshopApp\Source.cpp(194,83): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Admin\source\repos\EshopApp\EshopApp\Source.cpp(237,95): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Admin\source\repos\EshopApp\EshopApp\Source.cpp(276,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  EshopApp.vcxproj -> C:\Users\Admin\source\repos\EshopApp\Debug\EshopApp.exe
